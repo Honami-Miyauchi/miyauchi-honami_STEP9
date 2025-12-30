@@ -1,0 +1,41 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5976
+    [34mall[39m: [
+      [34;4mApp\Models\Product[39;24m {#5978
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: "[32m鉛筆[39m",
+        [34mdescription[39m: "[32m描きやすい鉛筆です[39m",
+        [34mimage_url[39m: "[32m/images/pen_enpitsu_mark.png[39m",
+        [34mprice[39m: [35m200[39m,
+        [34mcreated_at[39m: "[32m2025-12-22 11:54:44[39m",
+        [34mupdated_at[39m: "[32m2025-12-22 11:54:44[39m",
+      },
+      [34;4mApp\Models\Product[39;24m {#5979
+        [34mid[39m: [35m2[39m,
+        [34mname[39m: "[32mイヤホン[39m",
+        [34mdescription[39m: "[32mワイヤレスです。[39m",
+        [34mimage_url[39m: "[32m/images/music_earphone_kotsudendou.png[39m",
+        [34mprice[39m: [35m1000[39m,
+        [34mcreated_at[39m: "[32m2025-12-22 11:54:44[39m",
+        [34mupdated_at[39m: "[32m2025-12-22 11:54:44[39m",
+      },
+      [34;4mApp\Models\Product[39;24m {#5980
+        [34mid[39m: [35m3[39m,
+        [34mname[39m: "[32mタブレット[39m",
+        [34mdescription[39m: "[32m軽量です[39m",
+        [34mimage_url[39m: "[32m/images/ekisyou_pen_tablet.png[39m",
+        [34mprice[39m: [35m25000[39m,
+        [34mcreated_at[39m: "[32m2025-12-22 11:54:44[39m",
+        [34mupdated_at[39m: "[32m2025-12-22 11:54:44[39m",
+      },
+      [34;4mApp\Models\Product[39;24m {#5981
+        [34mid[39m: [35m4[39m,
+        [34mname[39m: "[32mデスク[39m",
+        [34mdescription[39m: "[32m昇降できます[39m",
+        [34mimage_url[39m: "[32m/images/desk_benkyoudukue.png[39m",
+        [34mprice[39m: [35m30000[39m,
+        [34mcreated_at[39m: "[32m2025-12-22 11:54:44[39m",
+        [34mupdated_at[39m: "[32m2025-12-22 11:54:44[39m",
+      },
+    ],
+  }
+
